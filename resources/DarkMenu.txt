@@ -1,0 +1,1 @@
+darkmenu,-16777012,/Users/sunnyyyeh/darkgame/resources/darkmenu.png,1,1

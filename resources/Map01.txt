@@ -1,0 +1,17 @@
+floor0,-13369549,/Users/sunnyyyeh/darkgame/resources/floor0.png,1,1
+brownwall,-10066432,/Users/sunnyyyeh/darkgame/resources/brownwall.png,1,1
+floor_wall_down,-16763905,/Users/sunnyyyeh/darkgame/resources/floor_wall_down.png,1,1
+floor_wall_down_up,-16750900,/Users/sunnyyyeh/darkgame/resources/floor_wall_down_up.png,1,1
+floor_wall_left,-16724737,/Users/sunnyyyeh/darkgame/resources/floor_wall_left.png,1,1
+floor_wall_left_down,-16777114,/Users/sunnyyyeh/darkgame/resources/floor_wall_left_down.png,1,1
+floor_wall_left_up,-6710785,/Users/sunnyyyeh/darkgame/resources/floor_wall_left_up.png,1,1
+floor_wall_leftx3,-6749953,/Users/sunnyyyeh/darkgame/resources/floor_wall_leftx3.png,1,1
+floor_wall_right,-3355393,/Users/sunnyyyeh/darkgame/resources/floor_wall_right.png,1,1
+stair0_right,-65332,/Users/sunnyyyeh/darkgame/resources/stair0_right.png,1,1
+floor_wall_right_down,-16737844,/Users/sunnyyyeh/darkgame/resources/floor_wall_right_down.png,1,1
+floor_wall_right_left,-16751002,/Users/sunnyyyeh/darkgame/resources/floor_wall_right_left.png,1,1
+floor_wall_right_up,-10092289,/Users/sunnyyyeh/darkgame/resources/floor_wall_right_up.png,1,1
+floor_wall_rightx3,-13369345,/Users/sunnyyyeh/darkgame/resources/floor_wall_rightx3.png,1,1
+floor_wall_up,-3355444,/Users/sunnyyyeh/darkgame/resources/floor_wall_up.png,1,1
+spike0,-52429,/Users/sunnyyyeh/darkgame/resources/spike0.png,1,1
+stair0_left,-65536,/Users/sunnyyyeh/darkgame/resources/stair0_left.png,1,1

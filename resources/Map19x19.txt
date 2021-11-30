@@ -1,0 +1,1 @@
+wall_smallmap,-16724788,/Users/sunnyyyeh/darkgame/resources/wall_smallmap.png,1,1

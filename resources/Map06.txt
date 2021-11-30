@@ -1,0 +1,10 @@
+floor0,-3355648,/Users/sunnyyyeh/darkgame/resources/floor0.png,1,1
+floor_wall_up,-39271,/Users/sunnyyyeh/darkgame/resources/floor_wall_up.png,1,1
+floor_wall_down,-65281,/Users/sunnyyyeh/darkgame/resources/floor_wall_down.png,1,1
+stair0_right,-154,/Users/sunnyyyeh/darkgame/resources/stair0_right.png,1,1
+floor_wall_leftx3,-6710785,/Users/sunnyyyeh/darkgame/resources/floor_wall_leftx3.png,1,1
+brownwall,-10066432,/Users/sunnyyyeh/darkgame/resources/brownwall.png,1,1
+floor_wall_down_up,-3342541,/Users/sunnyyyeh/darkgame/resources/floor_wall_down_up.png,1,1
+floor_wall_right_left,-13421569,/Users/sunnyyyeh/darkgame/resources/floor_wall_right_left.png,1,1
+floor_wall_right_down,-16763905,/Users/sunnyyyeh/darkgame/resources/floor_wall_right_down.png,1,1
+floor_wall_left_up,-16737793,/Users/sunnyyyeh/darkgame/resources/floor_wall_left_up.png,1,1
