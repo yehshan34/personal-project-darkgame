@@ -93,8 +93,8 @@ public class FirstScene extends Scene {
 
         monsters = new ArrayList<>();
         monsters.add(new Monster(0, 1216, 1600, 60));
-        monsters.add(new Monster(1, 448, 1600, 45));
-        monsters.add(new Monster(3, 1216, 1216, 30));
+//        monsters.add(new Monster(1, 448, 1600, 45));
+//        monsters.add(new Monster(3, 1216, 1216, 30));
 
         //鏡頭
         camera = new Camera.Builder(Global.CAMERA_WIDTH, Global.CAMERA_HEIGHT)

@@ -94,9 +94,9 @@ public class ThirdScene extends Scene {
         fire = new Fire(1344, 1344, 1);
 
         monsters = new ArrayList<>();
-        monsters.add(new Monster(0, 1088, 704, 60));
-        monsters.add(new Monster(1, 1216, 1216, 75));
-        monsters.add(new Monster(2, 1600, 1088, 45));
+//        monsters.add(new Monster(0, 1088, 704, 60));
+//        monsters.add(new Monster(1, 1216, 1216, 75));
+//        monsters.add(new Monster(2, 1600, 1088, 45));
         monsters.add(new Monster(3, 832, 1472, 45));
         //鏡頭
         camera = new Camera.Builder(Global.CAMERA_WIDTH, Global.CAMERA_HEIGHT)

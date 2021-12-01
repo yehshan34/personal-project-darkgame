@@ -103,9 +103,9 @@ public class FourthScene extends Scene {
         monsters = new ArrayList<>();
         monsters.add(new Monster(0, 1088, 1216,60));
         monsters.add(new Monster(1, 704, 1216,75));
-        monsters.add(new Monster(2, 1600, 1216,45));
-        monsters.add(new Monster(3, 1088, 704,45));
-        monsters.add(new Monster(0, 1088, 448,60));
+//        monsters.add(new Monster(2, 1600, 1216,45));
+//        monsters.add(new Monster(3, 1088, 704,45));
+//        monsters.add(new Monster(0, 1088, 448,60));
         //鏡頭
         camera = new Camera.Builder(Global.CAMERA_WIDTH, Global.CAMERA_HEIGHT)
                 .setCameraStartLocation(300, 1500)

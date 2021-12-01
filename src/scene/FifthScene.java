@@ -100,8 +100,8 @@ public class FifthScene extends Scene {
         monsters = new ArrayList<>();
         monsters.add(new Monster(0, 1216, 1216,60));
         monsters.add(new Monster(1, 1088, 576,75));
-        monsters.add(new Monster(2, 832, 1472,45));
-        monsters.add(new Monster(3, 1856, 1216,45));
+//        monsters.add(new Monster(2, 832, 1472,45));
+//        monsters.add(new Monster(3, 1856, 1216,45));
         //鏡頭
         camera = new Camera.Builder(Global.CAMERA_WIDTH, Global.CAMERA_HEIGHT)
                 .setCameraStartLocation(300, 1500)

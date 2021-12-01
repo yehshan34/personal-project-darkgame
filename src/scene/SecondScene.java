@@ -102,8 +102,8 @@ public class SecondScene extends Scene {
 
         monsters = new ArrayList<>();
         monsters.add(new Monster(0, 320, 960,60));
-        monsters.add(new Monster(1, 1344, 832,45));
-        monsters.add(new Monster(2, 1088, 1216,30));
+//        monsters.add(new Monster(1, 1344, 832,45));
+//        monsters.add(new Monster(2, 1088, 1216,30));
 
         //鏡頭
         camera = new Camera.Builder(Global.CAMERA_WIDTH, Global.CAMERA_HEIGHT)
